@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-**bold text** My Favorite Series/Movies
+**My Favorite Series/Movies** 
 1. World War Z
 2. Five Night's At Freddy's
 3. Maze Runner Trilogy 
